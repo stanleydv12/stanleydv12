@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GCP, Terraform, CI/CD pipeline, Kubernetes**
 
-- 📫 How to reach me **stanley.teherag@gmail.com**
+- 📫 How to reach me **sdaveteherag@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
