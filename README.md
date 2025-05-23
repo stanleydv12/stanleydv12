@@ -1,6 +1,6 @@
 # Hi there, I'm Stanley Dave Teherag 👋
 
-🎯 **Site Reliability Engineer | Cloud Platform Engineer | DevOps Specialist**
+🎯 **Site Reliability Engineer | Cloud Platform Engineer | DevOps **
 
 Welcome to my GitHub! I'm an engineer focused on building scalable, resilient, and automated infrastructure. Currently, I'm part of the Internal Developer Platform team at **Tokopedia - Bytedance**, where I work on cloud automation, and developer tooling using Go, Terraform, and Kubernetes.
 
